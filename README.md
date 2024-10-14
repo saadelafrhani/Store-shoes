@@ -1,4 +1,4 @@
-# My First Website: Sneaker Haven
+# My First Website: Sneaker freshkicks
 
 Welcome to **freshkicks**, my very first front-end web project! As a passionate beginner in web development, I wanted to create a platform to showcase both classic and contemporary sneakers. This project reflects my enthusiasm for sneakers and my journey in learning web design and development.
 
